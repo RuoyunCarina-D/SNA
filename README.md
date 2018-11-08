@@ -1,2 +1,8 @@
 # Social Network Analysis 
---on audience's opinion on news sources
+**Data**: Survey data from classmates about their opinions on sources they tend to check news
+
+**Structure**: 
+Visualization of this directive two nodes network
+**dimensionality reduction**
+
+**ER Model**
