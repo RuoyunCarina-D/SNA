@@ -5,4 +5,4 @@
 Visualization of this directive two nodes network
 **dimensionality reduction**
 
-**ER Model**
+**ERGM Model**
