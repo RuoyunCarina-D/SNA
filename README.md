@@ -7,6 +7,6 @@
 **Structure**: 
 Visualization of this directive two nodes network
 
-**dimensionality reduction**
+* **dimensionality reduction**
 
-**ERGM Model**
+* **ERGM Model**
