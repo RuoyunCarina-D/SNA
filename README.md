@@ -5,8 +5,9 @@
 31 edges
 
 **Structure**: 
-Visualization of this directive two nodes network
+* Charts of this directive two-node network
 
 * **dimensionality reduction**
+
 
 * **ERGM Model**
